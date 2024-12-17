@@ -1,27 +1,17 @@
-$MAD
+$MAD : 0x7b818ea33426b1324cbfbc0450600c0510c99748
 https://sepolia.etherscan.io/token/0x7b818ea33426b1324cbfbc0450600c0510c99748
 =============================================================================
-
-$ BOOM
+$ BOOM : 0x3a0b07e58b7b63ae10b9b89fd83fc413f6312b64
 https://sepolia.etherscan.io/token/0x3a0b07e58b7b63ae10b9b89fd83fc413f6312b64
 =============================================================================
-
-
-$ZOO
+$ZOO : 0x051df65d05e04062dbbd8dfb7f21752e2ca5449a
 https://sepolia.etherscan.io/token/0x051df65d05e04062dbbd8dfb7f21752e2ca5449a
 =============================================================================
-
-
-$PEEL
+$PEEL : 0x541ad6c548ffe82779bcc35302435f5a0e30a8cc
 https://sepolia.etherscan.io/token/0x541ad6c548ffe82779bcc35302435f5a0e30a8cc
 =============================================================================
-
-
-$JUNK
+$JUNK : 0x7389ddd79d8b22d1de5384c8fc8fa1ac80ac4532
 https://sepolia.etherscan.io/token/0x7389ddd79d8b22d1de5384c8fc8fa1ac80ac4532
 =============================================================================
-
-
-$MATE 
+$MATE : 0xa624b34aa8de364328d03e2b0e827ca9c51156e5
 https://sepolia.etherscan.io/token/0xa624b34aa8de364328d03e2b0e827ca9c51156e5
-=============================================================================
