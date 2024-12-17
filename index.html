@@ -7,17 +7,17 @@
     <script src="https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js"></script>
 </head>
 <body>
-    <h1>Money Interface</h1>
-    <button id="connectButton">Connect Wallet</button>
+    <h1>wallet Connector </h1>
+    <button id="connectButton"> Sign-in with EVM Wallet</button>
 
     <div id="contracts">
-        <h2>AMM Contract</h2>
+        <h2> Direct Swap Contract</h2>
         <div>
             <p>Address: 0x5B4D751C5520417A69A45116dE290972Ef0F2aaA</p>
             <div id="amm-functions"></div>
         </div>
 
-        <h2>Twitter Contract</h2>
+        <h2> Twitter Event Emitter </h2>
         <div>
             <p>Address: 0xa0fea47c50d937311a6594f4f2bae413300c1913</p>
             <div id="twitter-functions"></div>
@@ -29,20 +29,20 @@
             <div id="trading-functions"></div>
         </div>
 
-        <h2>Voting Contract</h2>
+        <h2>Vote Contract</h2>
         <div>
             <p>Address: 0x49c30BE60EcCB71a905c3E02fb63F34ceBfda924</p>
             <div id="voting-functions"></div>
         </div>
 
-        <h2>Counter Contract</h2>
+        <h2> Counting Contract </h2>
         <div>
             <p>Address: 0xaAb3936e1505F06a8700a8f7B1218D2015B682C8</p>
             <div id="counter-functions"></div>
         </div>
     </div>
 
-    <h2>Tokens</h2>
+    <h2> Distrcit Tokens Balance Checker </h2>
     <div>
         <input type="text" id="customAddress" placeholder="Optional: Check balance for specific address">
         <button onclick="checkAllBalances()">Check All Balances</button>
@@ -236,5 +236,3 @@
     </script>
 </body>
 </html>
-index.html
-13 KB
